@@ -13,7 +13,7 @@
         },
         "sku": {
             "type": "string",
-            "defaultValue": "Standard S2"
+            "defaultValue": "Standard S3"
         },
         "webAppSlotName": {
             "type": "string",
